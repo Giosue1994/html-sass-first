@@ -1,0 +1,15 @@
+$color_one: red;
+$color_two: goldenrod;
+$color_three: gainsboro;
+
+body {
+  background-color: $color_three;
+}
+
+.one {
+  color: $color_one;
+}
+
+.two {
+  color: $color_two;
+}
